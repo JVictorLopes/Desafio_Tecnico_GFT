@@ -1,0 +1,16 @@
+Prompt ao ChatGPT:
+
+Preciso de um código da parte lógica de uma conexão com uma API. Tenho o seguinte código:
+
+public class ApiService {
+private static final String API_TOKEN = "";
+
+    public void conectar() {
+    // TODO: lógica para consumir API
+    }
+}
+
+*REGRAS*
+1- Forneça apenas o código do método "public void conectar()".
+2- Insira seu código abaixo da linha com o "// TODO:".
+3- Qualquer uso da API_TOKEN, use o termo "API_KEY".

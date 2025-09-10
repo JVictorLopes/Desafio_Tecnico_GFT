@@ -1,0 +1,15 @@
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\bin\Debug\net8.0\Desafio_Tecnico_GFT.exe
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\bin\Debug\net8.0\Desafio_Tecnico_GFT.deps.json
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\bin\Debug\net8.0\Desafio_Tecnico_GFT.runtimeconfig.json
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\bin\Debug\net8.0\Desafio_Tecnico_GFT.dll
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\bin\Debug\net8.0\Desafio_Tecnico_GFT.pdb
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.AssemblyInfoInputs.cache
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.AssemblyInfo.cs
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.sourcelink.json
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.dll
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\refint\Desafio_Tecnico_GFT.dll
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.pdb
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\Desafio_Tecnico_GFT.genruntimeconfig.cache
+C:\Users\João\Desktop\DIO_Desafio\Desafio_Tecnico_GFT\obj\Debug\net8.0\ref\Desafio_Tecnico_GFT.dll
